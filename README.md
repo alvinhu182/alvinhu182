@@ -34,5 +34,5 @@
   <a href="https://www.linkedin.com/in/alvinhu182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
-  <h1>  Portifólio </h1>
+  <h1>  Portfólio </h1>
   https://portfolio182.netlify.app/
