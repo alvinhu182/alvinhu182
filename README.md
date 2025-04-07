@@ -34,10 +34,19 @@
   <a href="https://www.linkedin.com/in/alvinhu182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
-  <h1>  Portfólio </h1>
+  <div>
+    <h1>  Portfólio </h1>
+  
+ 
+ <a href="https://portfolio182.netlify.app/"><img src="https://media.tenor.com/M-o8btbt82kAAAAi/gengar-cute.gif" alt="Imagem descritiva" title="Título opcional da imagem"/></a>
+
+   
   https://portfolio182.netlify.app/
+  </div>
+  
 
 ## Cursos e Certificados
+ <img align="right" alt="Alvinhu-Gengar"   height="200" width="150" style="margin: 0 0px -200px 0;" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif">
 
 | Cursos                          | Certificados                      |
 |---------------------------------|-----------------------------------|
@@ -48,4 +57,6 @@
 | Introdução ao Git e ao GitHub   | [Certificado](https://hermes.dio.me/certificates/DBDB7E9E.pdf) |
 | Trabalhando em Equipes Ágeis    | [Certificado](https://hermes.dio.me/certificates/5608321F.pdf) |
 | Introdução ao Figma             | [Certificado](https://hermes.dio.me/certificates/WJDIV9O5.pdf) |
+
+ 
 
