@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente não estou trabalhando... Apenas estudando e tentando vagas por ai.. 
-- 🌱 Estou aprendendo javascript/react e as vezes dou uma olhada em Java
+- 🔭 Tutor Proz - Introdução a programação - 09/2024/Atual
+- 🌱 Estou aprendendo javascript/react
 - 📫 Contato: alvinhu@hotmail.com
 - 📱 Whatsapp: 35 988351193
 - 😄 Pronomes: Ele/Dele
@@ -36,3 +36,15 @@
   ##
   <h1>  Portfólio </h1>
   https://portfolio182.netlify.app/
+
+## Cursos e Certificados
+
+| Cursos                          | Certificados                      |
+|---------------------------------|-----------------------------------|
+| Introdução a IA                 | [Certificado](https://hermes.dio.me/certificates/J58TU4P0.pdf) |
+| Formação HTML Web Developer    | [Certificado](https://hermes.dio.me/certificates/J58TU4P0.pdf) |
+| Fundamentos do CSS              | [Certificado](https://hermes.dio.me/certificates/5D71738F.pdf) |
+| Estilizações Básicas com CSS    | [Certificado](https://hermes.dio.me/certificates/6EF7088D.pdf) |
+| Introdução ao Git e ao GitHub   | [Certificado](https://hermes.dio.me/certificates/DBDB7E9E.pdf) |
+| Trabalhando em Equipes Ágeis    | [Certificado](https://hermes.dio.me/certificates/5608321F.pdf) |
+| Introdução ao Figma             | [Certificado](https://hermes.dio.me/certificates/WJDIV9O5.pdf) |
